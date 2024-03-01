@@ -4,7 +4,5 @@ Pillow
 face_recognition
 facenet_pytorch
 torch
-torchvision
 numpy
 pandas
-dlib-bin
