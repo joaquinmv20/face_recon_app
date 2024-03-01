@@ -5,4 +5,4 @@ facenet_pytorch
 torch
 numpy
 pandas
-dlib
+dlib==19.22
