@@ -6,4 +6,4 @@ torch
 torchvision
 numpy
 pandas
-dlib==24.0
+dlib==19.24.2
