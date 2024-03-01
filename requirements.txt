@@ -7,4 +7,4 @@ torch
 torchvision
 numpy
 pandas
-dlib
+dlib-bin
