@@ -5,6 +5,7 @@ from io import BytesIO
 import base64
 import face_recognition as fr
 import io
+import dlib
 
 st.set_page_config(
     layout="wide", 
