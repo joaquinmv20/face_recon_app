@@ -1,7 +1,6 @@
 streamlit
 rembg
 Pillow
-face_recognition
 facenet_pytorch
 torch
 numpy
