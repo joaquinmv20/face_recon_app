@@ -6,3 +6,4 @@ facenet_pytorch
 torch
 numpy
 pandas
+dlib
